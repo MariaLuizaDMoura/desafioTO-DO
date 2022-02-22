@@ -1,5 +1,4 @@
-# desafioTO-DO
-Desafio Backend – Java Viceri
+
 <h1 align="center">To-Do</h1>
 
 <h4 align="center">Status: Developing ⚠️</h4>
@@ -12,7 +11,7 @@ It is a web application planned by us, do we perform the CRUD
 ### Some fields in main Model is:
 
 <p align="justify">O objetivo desse desafio é a criação de uma API REST para um aplicativo de tarefas (TO-DO). </p>
-</div>
+</div align="center">
 Also that, has a User with this fields:
 
 <div align="center">
@@ -79,9 +78,7 @@ Also that, has a User with this fields:
 
 <table>
   <tr>
- 
-    <td align="center"><a href="https://github.com/MariaLuizaDMoura"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90870156?v=4" width="150px;" alt=""/><br /><sub><b>Maria Luiza Moura</b></sub></a><br /></td> 
-    
+    <td align="center"><a href="https://github.com/MariaLuizaDMoura"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90870156?v=4" width="150px;" alt=""/><br /><sub><b>Maria Luiza Moura</b></sub></a><br /></td>     
   </tr>
 </table>
 
